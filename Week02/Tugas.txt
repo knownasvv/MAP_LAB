@@ -1,0 +1,23 @@
+2. 
+a. Kosongkan Angka 1 dan Angka 2, lalu klik salah satu button
+   Error: java.lang.NumberFormatException: empty String
+   Penyebab: Text box Angka 1 dan Angka 2 kosong
+   Cara memperbaiki: Memberi input pada text box Angka 1 dan Angka 2 secara lengkap atau memberikan error prevention pada code yang akan menampilkan keterangan bahwa user perlu memberi input pada kedua text box.
+
+b. Kosongkan Angka 2, lalu klik button Bagi.
+   Error: java.lang.NumberFormatException: empty String
+   Penyebab: Text box Angka 2 kosong
+   Cara memperbaiki: Memberi input pada text box Angka 2 atau memberikan error prevention pada code yang akan menampilkan keterangan bahwa user perlu memberi input pada kedua text box.
+
+c. Isi 0 (nol) pada Angka 2, lalu klik button Bagi
+   Apabila Angka 1 diberi input lebih dari 0, hasil dari pembagian tersebut menjadi Infinity.
+   Apabila Angka 1 tidak diberi input, error muncul sama seperti error pada bagian a. dan b. yaitu:
+   Error: java.lang.NumberFormatException: empty String
+   Penyebab: Text box angka 1 kosong
+   Cara memperbaiki: Memberi input pada text box Angka 1 dan Angka 2 secara lengkap atau memberikan error prevention pada code yang akan menampilkan keterangan bahwa user perlu memberi input pada kedua text box.
+
+3. Debugger adalah fitur android studio yang memungkinkan developer menjalankan baris kodenya satu per satu sesuai kontrol developer.
+- step-over: Debugger menjalankan baris dimana debugger diletakkan, setelah itu menjalankan baris berikutnya kemudian berhenti sementara di baris itu juga.
+- step-into: Jika pada baris debugger saat ini terletak memanggil suatu method, maka debugger akan pergi menuju method itu juga.
+- step-out : Debugger menjalankan baris hingga baris akhir dari block atau baris akhir dari suatu method yang kemudian akan kembali ke baris semula dimana dilakukan step into
+- resume   : Debugger melanjutkan menjalankan barisnya.
