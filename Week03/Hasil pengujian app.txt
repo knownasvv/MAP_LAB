@@ -1,0 +1,3 @@
+Apabila diklik lebih dari sekali, kata 'pernah diklik' terduplikasi sehingga misalnya ditekan sekali lagi di "Kata 2 'pernah diklik" akan menghasilkan "Kata 2 pernah diklik pernah diklik" dan memunculkan alert box bertuliskan nama item yang ditekan, misalnya dalam kasus ini "Kata 2 pernah diklik" akan menampilkan alert box berisi teks "Kata 2 pernah diklik dipilih".
+
+Apabila ditambahkan beberapa item, jarak yang bisa discroll dari atas ke bawah bertambah seiring pertambahan item, sehingga item dapat diakses dan dilihat ketika di scroll.
