@@ -1,0 +1,5 @@
+Lakukan pengujian terhadap app anda dengan skenario kombinasi berbagai jenis bentuk dan warna serta klik pada ikon clear. Beri catatan dan kesimpulan dari hasil pengujian app anda dan submit ke eLearning portal.
+Jawab:
+Kita bisa mendapatkan warna baru dengan mengkombinasikan RGB menggunakan slider yang tersedia.
+Kita juga bisa menggunakan bentuk-bentuk seperti persegi, lingkaran, dan garis lurus untuk membuat sebuah gambar yang jelas misalnya menjadi logo UMN.
+Kita juga bisa menggunakan path untuk menggambar garis sembarang.
