@@ -1,0 +1,9 @@
+Project A:
+Ketika layar ditekan, sebuah lingkaran berwarna hijau akan muncul dari berukuran kecil hingga membesar memenuhi layar. Apabila layar ditekan lagi dilokasi lain, sebuah lingkaran baru dari ukuran kecil akan muncul, dan lingkaran yang sebelumnya muncul akan hilang.
+
+Project B:
+Awalnya terdapat gambar kuda yang ditunggangi, ketika gambar itu ditekan, kudanya akan seolah-olah sedang berlari sambil menunggangi seorang manusia.
+
+Project C:
+Terdapat 2 button yang dapat ditekan, yang pertama yaitu "HALO SPRING" yang apabila ditekan, button tersebut akan jatuh dan akan seolah-olah memantul kembali ke posisi semula.
+Sedangkan, button kedua yaitu "HALO FLING" ketika ditekan button tersebut akan berotasi secara vertical.
