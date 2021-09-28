@@ -1,0 +1,10 @@
+1. Tombol Foto dan Video (pada Tutorial Kamera). 
+Jika ditekan tombol Foto, muncul kamera yang bisa menangkap foto dan diperlihatkan hasilnya.
+Jika ditekan tombol Video, muncul kamera video yang bisa merekam video dan diperlihatkan hasilnya.
+
+2. Item pada RecyclerView pada Main Activity
+Jika salah satu item ditekan, akan pergi munuju activity lainnya yaitu DetilVideoActivity dan di dalam DetilVideoActivity tersebut berisikan video player, judul, keterangan dan Uri video tersebut.
+
+3. Tombol Kembali dan EditText pada DetilVideo Activity 
+Jika tombol kembali ditekan, akan kembali ke Main Activity yang berisikan item-item dalam RecyclerView.
+Jika EditText ditekan, pengguna bisa mengganti teks yang ada di dalam Text Box tersebut.
